@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://raw.githubusercontent.com/rateforx/rateforx/main/devcard.svg" width="400" alt="rateforx's Dev Card"/></a>
 
 <!--
 **rateforx/rateforx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
